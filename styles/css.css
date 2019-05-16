@@ -1,0 +1,55 @@
+html, body {
+        max-width: 100%;
+        overflow-x: hidden;
+}
+
+#codigo {
+  border-radius: 5px;
+  width:50%;
+  margin: 0 auto;
+  padding-top:15px;
+  font-size:30px;
+  background: #ccc;
+  font-family: 'Lucida Console';
+  text-align: left;
+  font-size:13px;
+  color: #fafafa;
+}
+
+#consola {
+  padding: 35px;
+  height: 400px;
+  margin:0 auto;
+  background: #383737;
+}
+
+#sobremi{
+  background: #4997D0;
+}
+
+#sobremi p {
+  padding-top: 95px;
+  font-family: sans-serif;
+  letter-spacing: 0.3em;
+  font-weight: 700;
+  color: #fafafa;
+  font-size: 11px;
+}
+
+#header {
+  padding-top: 15px;
+  letter-spacing: 0.2em;
+  text-align: center;
+  background-color: #fafafa;
+  width: 100%;
+  font-size: 20px;
+}
+
+#resumen {
+  padding-top: 70px;
+  letter-spacing: 0.2em;
+  text-align: center;
+  background-color: #fafafa;
+  width: 100%;
+  font-size: 20px;
+}
